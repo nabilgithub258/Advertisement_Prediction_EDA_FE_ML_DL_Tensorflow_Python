@@ -58,21 +58,6 @@ This project showcases the application of machine learning techniques to predict
 - Seaborn
 - Matplotlib
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/advertisement-analysis.git
-   cd advertisement-analysis
-   ```
-
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter notebooks in the `notebooks/` directory to see the EDA, model building, and evaluation processes.
-
 ## Acknowledgments
 
 Special thanks to the creators of the dataset and the developers of the Python libraries used in this project.
