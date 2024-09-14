@@ -57,6 +57,24 @@ This project showcases the application of machine learning techniques to predict
 - Scikit-learn
 - Seaborn
 - Matplotlib
+- Tensorflow
+
+## Deep Learning Update
+In addition to traditional machine learning models, we incorporated deep learning techniques to further enhance our predictive capabilities for both classification and regression tasks.
+
+## Deep Learning for Classification
+
+We implemented a deep learning model using TensorFlow to predict whether a user clicked on an advertisement. The neural network architecture included multiple layers with the ReLU activation function, and the Adam optimizer was used to adjust weights efficiently during training. We monitored the model's performance using model.history.history to plot learning curves and check for overfitting. This approach allowed us to capture more complex patterns in the data, potentially boosting classification performance.
+
+## Deep Learning for Regression
+
+For the regression task, we used deep learning to predict the age of users. A neural network was built using TensorFlow, employing ReLU activation functions and the Adam optimizer. We carefully monitored the training process using model.history.history to detect and address any overfitting. This deep learning model aimed to uncover intricate relationships within the data that traditional regression models might overlook.
+
+## Results and Impact
+ - Classification with Deep Learning: The deep learning model provided a robust alternative to the Random Forest classifier, effectively capturing complex interactions between features.
+ - Regression with Deep Learning: Although challenging, the deep learning regression model offered a nuanced approach to predict age, requiring careful tuning to avoid overfitting and produce meaningful results.
+
+This deep learning integration showcased the potential for neural networks to enhance prediction accuracy, particularly in complex datasets like this advertisement dataset.
 
 ## Acknowledgments
 
