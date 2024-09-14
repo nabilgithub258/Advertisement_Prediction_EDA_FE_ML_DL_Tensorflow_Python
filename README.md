@@ -3,6 +3,7 @@
 ## Overview
 
 This project involves the analysis of an advertisement dataset to predict user behavior. We performed Exploratory Data Analysis (EDA), followed by building and optimizing classification models for the 'Click' column and regression models for the 'Age' column.
+# Update: In addition to traditional machine learning models, we also explored deep learning techniques to further enhance our predictive capabilities.
 
 ## Dataset
 
